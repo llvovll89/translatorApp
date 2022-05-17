@@ -56,6 +56,7 @@ a, a:hover, a:link {
 .text-input textarea {
     height: 250px;
     width: 100%;
+    color: #000;
     outline: none;
     border: none;
     background: none;
@@ -73,7 +74,7 @@ a, a:hover, a:link {
 
 .controls {
     padding: 16px 15px;
-    border-bottom: 1px solid salmon;
+    border-bottom: 1px solid #bebebe;
 }
 
 .controls .row.from .icons{
