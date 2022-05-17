@@ -1,0 +1,47 @@
+@media (max-width: 620px) {
+    .container {
+        padding: 15px;
+        transition: .5s all ease-in-out;
+    }
+
+    .text-input textarea {
+        padding: 6px 10px;
+        font-size: 82.5%;
+        height: 210px;
+    }
+
+    .controls .row {
+        justify-content: space-around;
+        flex-wrap: wrap;
+        transition: .5s all ease-in-out;
+    }
+
+    .controls li {
+        padding: 0 6px;
+        transition: .5s all ease-in-out;
+    }
+
+    .controls .row .icons {
+        margin: 6px;
+        transition: .5s all ease-in-out;
+    }
+
+    .controls .row .icons i {
+        padding: 4px;
+        transition: .5s all ease-in-out;
+    }
+
+    .controls .exchange i {
+        font-size: 20px;
+        transition: .5s all ease-in-out;
+    }
+
+    .controls .row select {
+        position: relative;
+        margin: 3px 0;
+        width: 95px;
+        font-size: 88.5%;
+        padding: 2px;
+        transition: .5s all ease-in-out;
+    }
+}
